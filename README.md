@@ -1,8 +1,3 @@
-# Voice-Assistant
-Sure! Here's an expanded and more detailed version for your GitHub README that provides a comprehensive overview of your voice assistant project:
-
----
-
 ## Voice Assistant
 
 This project is an intelligent, open-source voice assistant designed to enhance productivity and simplify daily tasks through natural language interaction. It utilizes advanced speech recognition and synthesis technologies to enable seamless voice command processing, making it suitable for a variety of applications ranging from personal use to smart home integration.
