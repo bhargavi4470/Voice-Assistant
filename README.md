@@ -22,3 +22,6 @@ This project is an intelligent, open-source voice assistant designed to enhance 
 - Python for core logic
 - APIs for integrations (e.g., weather, news, calendar)
 - Machine Learning models for improved understanding and contextual responses
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flanguages%2Ftop%2Fbhargavi4470%2FVoice-Assistant)
+
